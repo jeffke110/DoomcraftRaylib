@@ -1,6 +1,7 @@
 # Doomcraft!
 
-Doomcraft is an exciting first-person shooter game built implemented using the raylib 3D library and written in C++ 14.
+Doomcraft is an first-person shooter game built implemented using the raylib 3D library and written in C++ 14.
+Survive until death and shoot zombies and ghasts!
 <br>
 link: https://jeffke110.github.io/Doomcraft/src/doomcraft.html 
 <br>
